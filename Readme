@@ -1,0 +1,13 @@
+I developed this application in just 4 hours without following any tutorial. My primary goal was to deepen my understanding of integrating multiple APIs simultaneously. 
+Specifically, I utilized the Geolocation API and the Weather API from Open-Meteo. This project presented a significant challenge for me as it was only my second time working with APIs, 
+and it involved coordinating data from two different APIs within a single application.
+
+Despite the challenge, this project was an excellent opportunity for me to enhance my skills in API integration. It required careful handling of asynchronous data requests and combining the results in a meaningful way. 
+By tackling this project, I was able to improve my proficiency in managing API data and strengthened my overall understanding of API interactions.
+
+Project Highlights:
+Objective: To integrate and utilize multiple APIs to fetch geolocation and weather data.
+Technology: Java
+APIs Used:
+Geolocation API by Open-Meteo
+Weather API by Open-Meteo
